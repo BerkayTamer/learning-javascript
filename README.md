@@ -1,3 +1,3 @@
 # Learning JavaScript
 
-I am taking a note of everything I learned on codecademy
+In this repository, I am taking a note of everything I learned on codecademy.
